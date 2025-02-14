@@ -64,8 +64,8 @@ DATABASE_URL="postgresql://postgres:postgres@remnawave-db:5432/postgres"
 
 ### JWT ###
 ### CHANGE DEFAULT VALUES ###
-JWT_AUTH_SECRET=سکرتی که از برنامه RWA دریافت کردید
-JWT_API_TOKENS_SECRET=دومین سکرتی که از برنامه RWA دریافت کردید
+JWT_AUTH_SECRET=کد HEX اولی که یادداشت کردید
+JWT_API_TOKENS_SECRET=کد HEX دومی که یادداشت کردید
 
 
 ### TELEGRAM ###
