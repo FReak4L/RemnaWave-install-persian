@@ -2,12 +2,23 @@
 
 پس از نصب پنل اصلی، یک سرور مجازی دیگر با لوکیشن دلخواه ایجاد کنید.
 
-ابتدا با دستور زیر بروزرسانی های سرور را دریافت و اعمال کنید:
+ابتدا با دستور زیر داکر را روی سرور خود نصب کنید:
 ```
-sudo apt update && sudo apt upgrade -y
+sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+sudo apt update
+sudo apt install -y docker-ce
+docker --version
+```
+
+بهتر است با دستور زیر بروزرسانی های سرور را دریافت و اعمال کنید:
+```
+sudo apt update && apt upgrade -y
 ```
 
 با دستور زیر یک پوشه برای Node و یک فایل داکر ایجاد نمایید:
+
 ```
 mkdir /remnanode && cd remnanode && nano docker-compose.yml
 ```
