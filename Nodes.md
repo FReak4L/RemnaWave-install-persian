@@ -20,7 +20,7 @@ sudo apt update && apt upgrade -y
 با دستور زیر یک پوشه برای Node و یک فایل داکر ایجاد نمایید:
 
 ```
-mkdir /remnanode && cd remnanode && nano docker-compose.yml
+mkdir /remnanode && cd /remnanode && nano docker-compose.yml
 ```
 
 محتوای <a href="https://raw.githubusercontent.com/remnawave/node/refs/heads/main/docker-compose-prod.yml">این فایل</a> را کپی و در فایل داکری که ایجاد شد الصاق کنید: (در تاریخ 28 بهمن 1403 محتوای فایل به شرح زیر است، به علت وجود احتمال در تغییر محتوا، محتوای فایل را به صورت بروز از <a href="https://raw.githubusercontent.com/remnawave/node/refs/heads/main/docker-compose-prod.yml">لینک فایل ارائه شده توسط توسعه دهنده</a> دریافت کنید.)
