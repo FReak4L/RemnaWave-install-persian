@@ -1,6 +1,9 @@
-# آموزش نصب RemnaWave در 18 مرحله
+# آموزش نصب RemnaWave
 
 بهتر است جهت نصب پنل از سیستم عامل Ubuntu 22.04 استفاده نمایید.
+<br>
+<a href="https://github.com/monhacer/RMWQuick/blob/main/Nodes.md">آموزش نصب Node های پنل (نیاز است ابتدا پنل را نصب کنید!)</a>
+<br>
 
 1. ابتدا آپدیت های مورد نیاز سرور را انجام دهید:
 ```
@@ -408,3 +411,5 @@ docker compose up -d && docker compose logs -f -t
 (نکته: sub.domain.ir صرفا یک مثال می باشد، با آدرس دامنه خود تغییر دهید)
 
 موفق باشید.
+<br>
+<a href="https://github.com/monhacer/RMWQuick/blob/main/Nodes.md">آموزش نصب Node های پنل</a>
