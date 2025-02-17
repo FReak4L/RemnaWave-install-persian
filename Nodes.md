@@ -1,10 +1,11 @@
-<h3>
-<a href="https://t.me/freakxray">اگه نیاز به آموزش های بیشتر داری بیا توی چنل تلگرام</a>
-<h3>
+
 # راهنمای نصب Node ها
 
 پس از نصب پنل اصلی، یک سرور مجازی دیگر با لوکیشن دلخواه ایجاد کنید.
-
+<h3>
+<a href="https://t.me/freakxray">اگه نیاز به آموزش های بیشتر داری بیا توی چنل تلگرام</a>
+<h3>
+  
 ابتدا با دستور زیر داکر را روی سرور خود نصب کنید:
 ```
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
