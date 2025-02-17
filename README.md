@@ -3,7 +3,7 @@
 
 بهتر است جهت نصب پنل از سیستم عامل Ubuntu 22.04 استفاده نمایید.
 <br>
-<a href="[https://github.com/monhacer/RMWQuick](https://github.com/FReak4L/RemnaWave-install-persian/blob/main/Nodes.md">آموزش نصب Node های پنل (نیاز است ابتدا پنل را نصب کنید!)</a>
+<a href="https://github.com/FReak4L/RemnaWave-install-persian/blob/main/Nodes.md">آموزش نصب Node های پنل (نیاز است ابتدا پنل را نصب کنید!)</a>
 <br>
 - - - - -
 <h3>
