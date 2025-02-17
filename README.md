@@ -1,13 +1,14 @@
-<h3>
-<a href="https://t.me/freakxray">اگه نیاز به آموزش های بیشتر داری بیا توی چنل تلگرام</a>
-<h3>
+
 # آموزش نصب RemnaWave
 
 بهتر است جهت نصب پنل از سیستم عامل Ubuntu 22.04 استفاده نمایید.
 <br>
-<a href="https://github.com/monhacer/RMWQuick/blob/main/Nodes.md">آموزش نصب Node های پنل (نیاز است ابتدا پنل را نصب کنید!)</a>
+<a href="[https://github.com/monhacer/RMWQuick](https://github.com/FReak4L/RemnaWave-install-persian/blob/main/Nodes.md">آموزش نصب Node های پنل (نیاز است ابتدا پنل را نصب کنید!)</a>
 <br>
-
+- - - - -
+<h3>
+<a href="https://t.me/freakxray">اگه نیاز به آموزش های بیشتر داری بیا توی چنل تلگرام</a>
+<h3>
 1. ابتدا آپدیت های مورد نیاز سرور را انجام دهید:
 ```
 sudo apt update && apt upgrade -y
